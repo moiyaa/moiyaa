@@ -1,1 +1,1 @@
-![𝖯𝗋𝗈𝖿𝗂𝗅𝖾 𝗏𝗂𝖾𝗐𝗌](𝗁𝗍𝗍𝗉𝗌://𝗄𝗈𝗆𝖺𝗋𝖾𝗏.𝖼𝗈𝗆/𝗀𝗁𝗉𝗏𝖼/?𝗎𝗌𝖾𝗋𝗇𝖺𝗆𝖾=𝗆𝗈𝗂𝗒𝖺𝖺&𝖼𝗈𝗅𝗈𝗋=𝗈𝗋𝖺𝗇𝗀𝖾&𝗌𝗍𝗒𝗅𝖾=𝖿𝗈𝗋-𝗍𝗁𝖾-𝖻𝖺𝖽𝗀𝖾)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moiyaa&show_icons=true&theme=tokyonight)
